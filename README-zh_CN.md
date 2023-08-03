@@ -2978,7 +2978,7 @@ where c.Customer_ID in (Select Customer_ID from cat_food);
 * 设计和/或开发基础设施项目
 
 这些问题通常作为应聘者的一项家庭任务作为候选，可以将多个主题结合在一起。
-在下面，你可以找到一些场景问题：
+你可以在下面，你可以找到一些场景问题：
 
 * [Elasticsearch & Kibana on AWS](scenarios/elk_kibana_aws.md)
 * [Ansible, Minikube and Docker](scenarios/ansible_minikube_docker.md)
